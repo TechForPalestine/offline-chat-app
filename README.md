@@ -1,7 +1,7 @@
 # Offline Chat App <a href="https://techforpalestine.org/learn-more"><img align="right" width="250" src="https://badge.techforpalestine.org/default" /></a>
 
 ## Idea
-An offline communication app for emergencies that works without the internet or cell towers using a peer-to-peer network (Bluetooth or WIFI radio) to connect devices directly, ensuring people stay in touch during blackouts.
+An offline communication app for emergencies that works without the internet or cell towers using a peer-to-peer network (Bluetooth or WiFi radio) to connect devices directly, ensuring people stay in touch during blackouts.
 
 ## Objective
 Develop a communication app for users to share information[^1] without centralized infrastructure[^2].
